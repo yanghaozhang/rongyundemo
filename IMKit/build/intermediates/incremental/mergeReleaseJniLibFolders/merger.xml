@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyApplication\For_Rong_Cloud\IMKit\src\main\libs"><file name="Rong_IMKit.jar" path="D:\MyApplication\For_Rong_Cloud\IMKit\src\main\libs\Rong_IMKit.jar"/></source></dataSet><dataSet config="release"><source path="D:\MyApplication\For_Rong_Cloud\IMKit\src\release\jniLibs"/></dataSet></merger>
